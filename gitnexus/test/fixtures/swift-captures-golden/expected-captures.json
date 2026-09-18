@@ -171,6 +171,18 @@
     "captureGroups": 7,
     "digest": "7ed3ccfa724fd58d3c9e10a176101364f2a01f20a7a87f9e3d76b715e4a307d8"
   },
+  "swift-nested-constructor-extension/Builder.swift": {
+    "captureGroups": 7,
+    "digest": "3ab7dba83541a1b8932bc1120ac62c903c30ed527c35b52b4341110f5256bd1e"
+  },
+  "swift-nested-constructor-extension/Standalone.swift": {
+    "captureGroups": 5,
+    "digest": "4ac71fb5f08cea3ab32a23ae41dd3bf3a215880cbb826b83d1c7427fa837d3c2"
+  },
+  "swift-nested-constructor-extension/Types.swift": {
+    "captureGroups": 11,
+    "digest": "84b9949d2eeb26e00644f3bb584186fe9d0eec2ed1058d3571db48249b1b2e7f"
+  },
   "swift-nested-extension/Extension.swift": {
     "captureGroups": 7,
     "digest": "c69b554d6a1372a449198db7581a2713a1850bded67874101d3cf2faa784f646"
